@@ -1,11 +1,11 @@
 {
   "author": "Alejandro Alvarez Acero",
-  "name": "node-rest-client",
+  "name": "node-rest-client-patched",
   "description": "node API REST client",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "repository": {
     "type":"git",
-    "url": "https://github.com/aacerox/node-rest-client.git"
+    "url": "https://github.com/inexorgame/node-rest-client.git"
   },
   "main": "./lib/node-rest-client",
   "dependencies": {
